@@ -3,6 +3,26 @@ Eventlite
 
 Light "events" for Python functions.
 
+.. image:: https://pypip.in/version/eventlite/badge.svg?text=version
+    :target: https://github.com/rshk/eventlite.git
+    :alt: Latest PyPI version
+
+.. image:: https://pypip.in/download/eventlite/badge.svg?period=month
+    :target: https://github.com/rshk/eventlite.git
+    :alt: Number of PyPI downloads
+
+.. image:: https://pypip.in/py_versions/eventlite/badge.svg
+    :target: https://pypi.python.org/pypi/eventlite/
+    :alt: Supported Python versions
+
+.. image:: https://pypip.in/status/eventlite/badge.svg
+    :target: https://pypi.python.org/pypi/eventlite/
+    :alt: Development Status
+
+.. image:: https://pypip.in/license/eventlite/badge.svg
+    :target: https://pypi.python.org/pypi/eventlite/
+    :alt: License
+
 
 Abstract
 ========
