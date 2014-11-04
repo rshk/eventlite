@@ -87,3 +87,10 @@ to which to dispatch the event.
 **Note:** by default only the handler for the innermost context
  manager is called; this might or might not be the desired behavior;
  some way to change this will be added in the future.
+
+
+Links
+=====
+
+- PyPI page: https://pypi.python.org/pypi/eventlite
+- Source code: https://github.com/rshk/eventlite
