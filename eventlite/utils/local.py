@@ -224,7 +224,7 @@ class LocalStack(object):
 #         request end.
 #         """
 #         def application(environ, start_response):
-#             return ClosingIterator(app(environ, start_response), self.cleanup)
+#             return ClosingIterator(app(environ, start_response), self.cleanup)  # noqa
 #         return application
 
 #     def middleware(self, func):
