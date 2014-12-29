@@ -20,7 +20,7 @@ setup(
     license='BSD License',
     author='Samuele Santi',
     author_email='',
-    description='',
+    description='Library that provides an "abstract" way for functions to "report" events',
     long_description=longdesc,
     install_requires=[],
     # tests_require=tests_require,
